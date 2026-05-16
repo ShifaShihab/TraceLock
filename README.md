@@ -92,75 +92,73 @@ TraceLock/
 
 ## 🔐 Officer Login
 
-```md
-![Officer Login]<img width="1916" height="952" alt="offlogin_img" src="https://github.com/user-attachments/assets/740313ba-b252-42f1-83a2-ef53b4b22e4e" />
-```
+<img width="1916" height="952" alt="offlogin_img" src="https://github.com/user-attachments/assets/740313ba-b252-42f1-83a2-ef53b4b22e4e" />
+
+---
 
 ## 🖥️ Officer Dashboard
 
-```md
-![Officer Dashboard]<img width="1912" height="989" alt="offdash_img" src="https://github.com/user-attachments/assets/ad58a23a-dab5-4033-b7ca-9b2faf2635cc" />
-```
+<img width="1912" height="989" alt="offdash_img" src="https://github.com/user-attachments/assets/ad58a23a-dab5-4033-b7ca-9b2faf2635cc" />
+
+---
 
 ## 🔑 Admin Login
 
-```md
-![Admin Login]<img width="1918" height="960" alt="adminlogin_img" src="https://github.com/user-attachments/assets/0c5b75b4-1ddf-4ccb-9f00-4b87cfe8ea0b" />
-```
+<img width="1918" height="960" alt="adminlogin_img" src="https://github.com/user-attachments/assets/0c5b75b4-1ddf-4ccb-9f00-4b87cfe8ea0b" />
+
+---
 
 ## 📊 Admin Dashboard
 
-```md
-![Admin Dashboard]<img width="1904" height="954" alt="admindash_img" src="https://github.com/user-attachments/assets/4a0651b4-c4dc-4b71-a2a9-59612296df73" />
-```
+<img width="1904" height="954" alt="admindash_img" src="https://github.com/user-attachments/assets/4a0651b4-c4dc-4b71-a2a9-59612296df73" />
+
+---
 
 ## 📁 Create New Case
 
-```md
-![New Case]<img width="1911" height="978" alt="newcase_img" src="https://github.com/user-attachments/assets/d97ccaaa-5619-42dd-bc90-64b0616ceeca" />
-```
+<img width="1911" height="978" alt="newcase_img" src="https://github.com/user-attachments/assets/d97ccaaa-5619-42dd-bc90-64b0616ceeca" />
+
+---
 
 ## 📤 Evidence Upload
 
-```md
-![Evidence Upload]<img width="1900" height="968" alt="evidence_img" src="https://github.com/user-attachments/assets/43e2ca09-2139-41f7-bbf1-0f9e9a665043" />
-```
+<img width="1900" height="968" alt="evidence_img" src="https://github.com/user-attachments/assets/43e2ca09-2139-41f7-bbf1-0f9e9a665043" />
+
+---
 
 ## 🔗 Blockchain Blocks
 
-```md
-![Blockchain Blocks]<img width="1919" height="985" alt="blocks_img" src="https://github.com/user-attachments/assets/c14c565d-9a50-436e-ab28-3db5c5c887a8" />
-```
+<img width="1919" height="985" alt="blocks_img" src="https://github.com/user-attachments/assets/c14c565d-9a50-436e-ab28-3db5c5c887a8" />
+
+---
 
 ## 🧾 Chain JSON Data
 
-```md
-![Chain JSON]<img width="1130" height="632" alt="chain json_img" src="https://github.com/user-attachments/assets/04cd9529-9959-47d1-9c3b-2c6e83a6fb92" />
-```
+<img width="1130" height="632" alt="chain_json_img" src="https://github.com/user-attachments/assets/04cd9529-9959-47d1-9c3b-2c6e83a6fb92" />
+
+---
 
 ## 📝 Audit Logs
 
-```md
-![Audit Logs]<img width="1898" height="978" alt="auditlog_img" src="https://github.com/user-attachments/assets/a2c829a3-fe15-46be-81dc-ac6bcdf0e908" />
-```
+<img width="1898" height="978" alt="auditlog_img" src="https://github.com/user-attachments/assets/a2c829a3-fe15-46be-81dc-ac6bcdf0e908" />
+
+---
 
 ## 📄 Audit Log JSON
 
-```md
-![Audit Log JSON]<img width="1127" height="651" alt="auditlog_json" src="https://github.com/user-attachments/assets/57aa2c5f-7436-4f23-93d0-7f4573af6ee8" />
-```
+<img width="1127" height="651" alt="auditlog_json" src="https://github.com/user-attachments/assets/57aa2c5f-7436-4f23-93d0-7f4573af6ee8" />
+
+---
 
 ## 🚨 Tamper Detection
 
-```md
-![Tamper Detection]<img width="1914" height="979" alt="tampered_img" src="https://github.com/user-attachments/assets/8cc65dd1-86d5-407d-b68c-95db241ae99b" />
-```
+<img width="1914" height="979" alt="tampered_img" src="https://github.com/user-attachments/assets/8cc65dd1-86d5-407d-b68c-95db241ae99b" />
+
+---
 
 ## 📑 PDF Authenticity Certificate
 
-```md
-![PDF Report]<img width="1014" height="843" alt="reportpdf_img" src="https://github.com/user-attachments/assets/63196318-7cdc-43fc-8577-7506de9256b7" />
-```
+<img width="1014" height="843" alt="reportpdf_img" src="https://github.com/user-attachments/assets/63196318-7cdc-43fc-8577-7506de9256b7" />
 
 ---
 
