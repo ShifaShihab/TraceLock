@@ -37,31 +37,43 @@ Built using **Python**, **Tkinter**, **JSON**, and **ReportLab**, TraceLock prov
 
 # 📂 Project Structure
 
+# 📂 Project Structure
+
 ```bash
 TraceLock/
 │
-├── main.py
+├── __pycache__/
+├── build/
+│   └── tracelock/
+│
 ├── data/
-├── reports/
-├── evidence/
-├── screenshots/
+│   ├── evidence/
+│   ├── admins.json
+│   ├── audit.json
+│   ├── cases.json
+│   ├── chain.json
+│   ├── inadmissible.json
+│   └── officers.json
+│  
 │
-├── adminlogin_img.png
-├── admindash_img.png
-├── offlogin_img.png
-├── offdash_img.png
-├── newcase_img.png
-├── evidence_img.png
-├── tampered_img.png
-├── blocks_img.png
-├── auditlog_img.png
-├── auditlog_json.png
-├── chainjson_img.png
-├── reportpdf_img.png
+├── dist/
+│   ├── data/
+│   └── TraceLock.exe
 │
+├── audit.py
+├── auth.py
+├── blockchain.py
+├── dashboard.py
+├── main.py
+│
+├── BUILD_README.md
+├── build.bat
+├── tracelock.ico
+├── tracelock.spec
+├── version_info.txt
+|
 └── README.md
 ```
-
 ---
 
 # ⚙️ How It Works
